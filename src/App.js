@@ -1,7 +1,8 @@
 import React from "react";
 //import Bootstrap from "./components/Bootstrap.js"
 //import Bulma from "./components/Bulma.js"
-import ReactBootstrap from "./components/ReactBootstrap.js"
+//import ReactBootstrap from "./components/ReactBootstrap.js"
+import MaterialUI from "./components/MaterialUI.js"
 
 function App() {
   return (
@@ -9,8 +10,8 @@ function App() {
       <h1>Frameworks CSS with React</h1>
       {/* <Bootstrap></Bootstrap> */}
       {/* <Bulma></Bulma> */}
-      <ReactBootstrap></ReactBootstrap>
-
+      {/* <ReactBootstrap></ReactBootstrap> */}
+      <MaterialUI></MaterialUI>
 
     
     </div>
